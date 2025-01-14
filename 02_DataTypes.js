@@ -21,7 +21,7 @@ let isLoggeIn = false
 // object
 
 console.log(typeof "Pravin");
-console.log(typeof null);
+console.log(typeof null);  // null is type of object
 
 
 
